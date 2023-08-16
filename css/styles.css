@@ -1,0 +1,29 @@
+h1 {
+    color:rgb(0, 0, 0);
+    font-size: 400%;
+}
+.sobrenome {
+    color:darkcyan;
+
+}
+.email{
+    color: darkcyan;
+}
+.imagens{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+h5 {
+    font-family:  Helvetica, sans-serif;
+    font-size: small;
+
+}
+
+h6 {
+    color: #333;
+    margin-top: 20px;
+}
+.container{
+    border: 1px solid black;
+}
