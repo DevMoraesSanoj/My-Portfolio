@@ -1,0 +1,35 @@
+.header{
+    color:rgb(0, 0, 0);
+    font-size: 700px;
+}
+.sobrenome {
+    color:#195986;
+
+}
+h1{
+    font-size: 15%;
+    font-style:normal;
+}
+.email{
+    color:#195986;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.header{
+    margin-top:50px;
+    font-family: 'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    font-weight: 700px;
+}
+h5 {
+    font-family:  Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+h6 {
+    color: #868e96;;
+    margin-top: 20px;
+}
