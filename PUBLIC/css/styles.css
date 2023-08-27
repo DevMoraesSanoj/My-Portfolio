@@ -1,3 +1,36 @@
+/*inicio container a*/
+.container-a{
+    margin-top: 0%;
+    margin-left: 5%;
+    background-color: #195986;
+}
+.profile{
+    margin-top: 30%;
+    margin-right: 15%;
+    margin-left: 15%;
+    justify-items: center;
+}
+.about{
+    margin-top: 20%;
+    text-align: center;
+    color: aliceblue;
+}
+/*final container a*/
+
+
+body{
+    display: flex;
+    flex-direction: row;  
+
+}
+.container-b{
+    padding-left: 30px;
+}
+.foto{
+    width:100%;
+
+}
+
 .header{
     color:rgb(0, 0, 0);
     font-size: 700px;
@@ -8,7 +41,7 @@
 }
 h1{
     font-size: 15%;
-    font-style:normal;
+    font-style:normal;;
 }
 .email{
     color:#195986;
