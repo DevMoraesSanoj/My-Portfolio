@@ -12,9 +12,9 @@
     margin-top: 30%;
     margin-right: 20%;
     margin-left: 20%;
-    border-image: 10%;
-   
+    border-color: #2D9AAE;
 }
+
 .menu{
     display: flex;
     flex-direction: column;
@@ -22,10 +22,18 @@
     margin-left: 25%;
     width:50%;
     height: 10%;
-    border: darkblue;
-
-
-
+}
+#meuInput:hover {
+    background-color: white;
+    transform: scale(1.1); /* Ajuste o valor conforme necessário para o zoom desejado */
+    transition: transform 0.2s; /* Adiciona uma transição suave para a animação */      
+  }
+  
+input{
+    border-radius: 12%;
+    border-style: hidden;
+    background-color: #2D9AAE;
+    transform: scale(1.2);
 }
 /* CSS */
 .img-zoom {
@@ -37,7 +45,7 @@
   
 .img-zoom:hover{
     transform: scale(1.2);
-} 
+}
 /*final container a*/
 
 
